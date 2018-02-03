@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+li {
+    padding: 1px;
+    float: left;
+    
+}
+li > a { 
+    padding: 5px; 
+    border-right: 0px solid #dddddd;
+    background-color: #ffffff;
+    text-transform:uppercase; 
+}
