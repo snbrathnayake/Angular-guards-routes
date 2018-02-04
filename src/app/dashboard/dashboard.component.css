@@ -1,0 +1,13 @@
+.outlet{
+    padding: 30px 1px;
+}
+.active-link{
+    padding: 8px;
+    background-color: peru;
+    border: none;
+    color: #ffffff;
+    border-radius: 2px;
+}
+a{
+    text-decoration:none;  
+}
