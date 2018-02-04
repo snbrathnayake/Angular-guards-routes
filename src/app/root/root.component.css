@@ -12,5 +12,5 @@ li > a {
     padding: 5px; 
     border-right: 0px solid #dddddd;
     background-color: #ffffff;
-    text-transform:uppercase; 
+    text-transform:lowercase; 
 }

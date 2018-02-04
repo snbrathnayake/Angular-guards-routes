@@ -1,0 +1,8 @@
+<div *ngFor="let comt of commentArray">
+  <span>
+    <a [routerLink]="['posted',comt.name]">{{ comt.name }} </a> <br/>{{ comt.commnet}}
+  </span>
+  <div style="height:1em;"></div>
+</div> 
+<hr/>
+<router-outlet></router-outlet> 
